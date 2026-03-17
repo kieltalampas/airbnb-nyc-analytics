@@ -19,7 +19,7 @@ Interactive analytics dashboard analyzing 41,697 NYC Airbnb listings using Snowf
 ### Page 1: Executive Summary
 - Total Listings (41,697)
 - Average Price per Night ($143.74)
-- Average Reviews per Listing (23)
+- Average Reviews per Listing (29)
 - Price Distribution by Category (Pie Chart)
 
 ### Page 2: Neighborhood Analysis
@@ -43,5 +43,4 @@ Interactive analytics dashboard analyzing 41,697 NYC Airbnb listings using Snowf
 
 ## Author
 Kiel Talampas
-```
 
